@@ -7,8 +7,7 @@ Nombre participantes de la tarea:
 - Tomas Baeza
 - Belén Pinilla
 
-Cometario:
-Con todo respeto, opino que falta práctica en las cosas del GitHub, vamos a "afanar" más en la cuestión, cruz pal cielo firmao. :) 
+Actividades realizadas.
 
 En un principio se crean branches para cada integrante del grupo. 
 
