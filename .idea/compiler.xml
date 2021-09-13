@@ -9,5 +9,8 @@
         <module name="Tarea5" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Tarea5" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
