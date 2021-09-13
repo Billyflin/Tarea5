@@ -1,10 +1,11 @@
 
 Nombre participantes de la tarea:
-Billy Martínez,
-Thanya Soto,
-Danko Torres,
-Tomas Baeza,
-Belén Pinilla,
+
+-Billy Martínez
+-Thanya Soto
+-Danko Torres
+-Tomas Baeza
+-Belén Pinilla
 
 Cometario:
 Con todo respeto, opino que falta práctica en las cosas del GitHub, vamos a "afanar" más en la cuestión, cruz pal cielo firmao. :) 
