@@ -22,3 +22,5 @@ Evidencia de proceso merge entre branches.
 
 Una vez una vez que el merge se realizó, crea el codigo que une diferencias de cada branch.
 ![alt text](https://github.com/Billyflin/Tarea5/blob/master/unknown3.png)
+
+Se anexa el codigo final realizado por merge en la rama master.
