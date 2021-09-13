@@ -5,6 +5,8 @@ public class HolaMundo {
         String apellido = "Baeza";
         System.out.println ("Mi nombre es "+nombre+apellido);
         System.out.println("Thanya Soto");
+        System.out.println("muy buenas tardes, con todo respeto");
+        System.out.println("Rulos estuvo aquí");
+        System.out.println(" Belén Pinilla ");
     }
-
 }
